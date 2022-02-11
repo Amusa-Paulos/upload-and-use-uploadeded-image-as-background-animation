@@ -1,0 +1,12 @@
+body {
+  padding-top: 5rem;
+  background-image: url('images/40628437283_84088aca75_o.jpg');
+  background-attachment: fixed;
+  background-position: top;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
